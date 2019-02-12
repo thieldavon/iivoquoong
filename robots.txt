@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theaho.rinkehoekstra.nl/sitemap.xml

